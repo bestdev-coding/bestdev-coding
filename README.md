@@ -8,17 +8,14 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **a variety of backend project.**
+- 🔭 I'm currently working on **a variety of backend projects.**
 - 🌱 I'm currently learning **Ruby, Kotlin, GraphQL, etc.**
 - 👯 I'm looking to collaborate on **backend projects**
 - 💬 Ask me about **backend development**
 - 📫 How to reach me **<nixdonaldo@gmail.com>**
 
 <h3>Connect with me:</h3>
-<p style="display:flex">
-  <a href="https://github.com/nixdonaldo-ux" style="display: inline-block" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nixdonaldo-ux" height="30" width="40" />
-  </a>
+<p>
   <a href="https://discord.gg/https://discord.gg/8yd3PktR" style="display: inline-block" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8yd3PktR" height="30" width="40" />
   </a>
