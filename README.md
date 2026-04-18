@@ -2,9 +2,7 @@
 
 ### Senior backend engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nixdonaldo-ux&label=Profile views&color=0e75b6&style=flat" alt="nixdonaldo-ux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nixdonaldo-ux" alt="nixdonaldo-ux" /></a> </p>
+<p align="left"><img src="https://avatars.githubusercontent.com/u/273580472?v=4&size=64" alt="nixdonaldo-ux" /> </p>
 
 - 🔭 I'm currently working on **a variety of backend project.**
 
