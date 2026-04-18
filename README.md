@@ -2,7 +2,7 @@
 
 ### Senior backend engineer
 
-<p align="left"><img src="https://avatars.githubusercontent.com/u/273580472?v=4&size=64" alt="nixdonaldo-ux" /> </p>
+<p align="left"><a href="https://github.com/nixdonaldo-ux" alt="profile link"><img src="https://avatars.githubusercontent.com/u/273580472?v=4&size=64" alt="nixdonaldo-ux" /></a> </p>
 
 - 🔭 I'm currently working on **a variety of backend project.**
 
