@@ -57,8 +57,8 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nest-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nest
+      <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="icon" width="65" height="65" />
+      <br>NestJS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
@@ -83,6 +83,10 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
       <br>GraphQL
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -100,8 +104,23 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
         width="65" height="65" alt="Git" />
       <br>Flutter
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg"
+        width="65" height="65" alt="Git" />
+      <br>Java
+    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kotlin-icon.svg"
+        width="65" height="65" alt="Git" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/spring-icon.svg"
+        width="65" height="65" alt="Git" />
+      <br>Spring Boot
+    </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
         width="65" height="65" alt="Git" />
