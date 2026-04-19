@@ -57,7 +57,7 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="NestJS" width="65" height="65" />
+      <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="65" height="65" />
       <br>NestJS
     </td>
     <td align="center" width="96">
