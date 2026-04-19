@@ -39,6 +39,10 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
       <br>React
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
       <br>Vue
     </td>
@@ -53,12 +57,12 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+      <img src="https://techstack-generator.vercel.app/nest-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nest
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
