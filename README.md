@@ -130,6 +130,10 @@ I am a **full-stack developer** with **8+ years of experience**, specializing in
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>Github
     </td>
+    <td align="center" width="96">
+      <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
   </tr>
 </table>
 <br>
