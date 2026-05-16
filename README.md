@@ -5,7 +5,7 @@
 </h1>
 
 <p >
-🚀 Full-Stack Developer | Mobile Expert | Blockchain Enthusiast  
+🚀 Backend Developer | SaaS Platform Developer
 </p>
 
 
