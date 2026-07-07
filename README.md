@@ -142,9 +142,11 @@ I am a **backend developer** with **4+ years of experience**, specializing in **
 
 <div align="center" >
 
-### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bestdev-coding&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+</picture>
 
 ### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
 
