@@ -153,6 +153,9 @@ I am a **backend developer** with **4+ years of experience**, specializing in **
 </div>
 <br>
 
+<a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
+</a>
 
 <h2> My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
 
