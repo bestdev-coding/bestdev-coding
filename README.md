@@ -23,11 +23,11 @@ I am a **software engineer** with **4+ years of experience**, specializing in **
 
 <h2> Thanks Very Much For Your Donation! </h2>
 
-<center>
+<div align="center">
    <a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank">
       <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
    </a>
-</center>
+</div>
 
 <h2> Visitor count  </h2>
 
