@@ -25,7 +25,7 @@ I am a **software engineer** with **4+ years of experience**, specializing in **
 
 <div align="center">
     <a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank" rel="noreferrer noopener">
-        <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+        <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto & Bitcoin donation button by NOWPayments">
     </a>
 </div>
 
