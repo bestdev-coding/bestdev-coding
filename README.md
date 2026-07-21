@@ -13,15 +13,19 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a **backend developer** with **4+ years of experience**, specializing in **backend and SaaS platform development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
+I am a **software engineer** with **4+ years of experience**, specializing in **backend development and AI automation**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
 
 - 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://github.com/bestdev-coding?tab=repositories), especially backends !!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: $100,000
 - ⚡ Fun fact: I love code and beautiful girl 🤣🤣
 
+<h2> Thanks Very Much For Your Donation! </h2>
+
+<a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank" rel="noreferrer noopener">
+   <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
+</a>
 
 <h2> Visitor count  </h2>
 
@@ -152,10 +156,6 @@ I am a **backend developer** with **4+ years of experience**, specializing in **
 
 </div>
 <br>
-
-<a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank" rel="noreferrer noopener">
-   <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
-</a>
 
 <h2> My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
 
