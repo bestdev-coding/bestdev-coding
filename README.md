@@ -22,9 +22,12 @@ I am a **software engineer** with **4+ years of experience**, specializing in **
 - ⚡ Fun fact: I love code and beautiful girl 🤣🤣
 
 <h2> Thanks Very Much For Your Donation! </h2>
-<iframe src="https://nowpayments.io/embeds/donation-widget?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" width="346" height="623" frameborder="0" scrolling="no" style="overflow-y: hidden;">
-    Can't load widget
-</iframe>
+
+<div align="center">
+    <a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank" rel="noreferrer noopener">
+        <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+    </a>
+</div>
 
 <h2> Visitor count  </h2>
 
