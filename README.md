@@ -21,14 +21,6 @@ I am a **software engineer** with **4+ years of experience**, specializing in **
 - 🥅 2026 Goals: $100,000
 - ⚡ Fun fact: I love code and beautiful girl 🤣🤣
 
-<h2> Thanks Very Much For Your Donation! </h2>
-
-<div align="center">
-   <a href="https://nowpayments.io/donation?api_key=abf443b2-a909-4f01-8d8a-c65d389d6d30" target="_blank">
-      <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Cryptocurrency & Bitcoin donation button by NOWPayments">
-   </a>
-</div>
-
 <h2> Visitor count  </h2>
 
 <div align="left">  
